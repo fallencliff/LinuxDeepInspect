@@ -1,6 +1,5 @@
 # LinuxDeepInspect
-目的
-====
+
 LinuxDeepInspect是一个Python 2.X脚本，用于对Linux系统进行深度巡检，巡检逻辑来源于日常运维经验。
 
 主要功能
